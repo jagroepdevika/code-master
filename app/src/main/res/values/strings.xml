@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">E-Order</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="find_bestelling">bestelling</string>
+    <string name="order"></string>
+    <string-array name="drank">
+        <item>Fernandes sap</item>
+        <item>Ice coffee</item>
+        <item>Fernandes frisdran</item>
+        <item>Water</item>
+    </string-array>
+
+    <string-array name="eten">
+        <item>broodje hotdog</item>
+        <item>popcorn zoet</item>
+        <item>popcorn zout</item>
+        <item>chips</item>
+    </string-array>
+
+</resources>
